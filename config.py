@@ -1,0 +1,6 @@
+consumer_key = 'KEY HERE'
+consumer_secret = 'KEY HERE'
+access_token = 'KEY HERE'
+access_token_secret = 'KEY HERE'
+client_id = 'KEY HERE'
+client_secret = 'KEY HERE'
