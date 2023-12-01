@@ -13,7 +13,7 @@ access_token_secret = config.access_token_secret
 auth.set_access_token(access_token, access_token_secret)
 
 #change this directory here to match yours
-s = open('/Users/colin.hughes/Documents/TheodenKing/theodenlines.txt', 'r')
+s = open('~/Documents/TheodenKing/theodenlines.txt', 'r')
 m = s.readlines()
 l = []
 for i in range(0,len(m) -1):
